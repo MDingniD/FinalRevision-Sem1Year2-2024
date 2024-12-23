@@ -1,2 +1,6 @@
-# FinalRevision-Sem1Year2-2024
-1. SVCDE 2. ICS 3. Probability
+# Notes and CheatSheet
+
+## 2024.9 - 2024.12 Second year, First semester
+1. SVCDE (Several Variable Calculus & Differential Equations) CheatSheet
+2. ICS (Introduction to Computer System) Revision notes
+3. Probability CheatSheet
